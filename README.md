@@ -8,3 +8,6 @@ Through this project, the Code (main.py) scans the Birthdays List (birthdays.csv
 - Enter your Personal GMail ID, Password in main.py
 - Populate birthdays.csv with the details of the people you're interested to wish using this program
 - Run this program on cloud to automate it
+
+## Result
+![alt text](example.PNG)
